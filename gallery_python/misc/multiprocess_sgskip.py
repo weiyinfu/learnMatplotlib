@@ -8,7 +8,7 @@ plotting in another.
 
 Written by Robert Cimrman
 """
-from __future__ import print_function
+
 
 import time
 import numpy as np

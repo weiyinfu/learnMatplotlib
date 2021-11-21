@@ -2,6 +2,7 @@
 ===================
 Anatomy of a figure
 ===================
+anatomy：解剖学
 
 This figure shows the name of several matplotlib elements composing a figure
 """

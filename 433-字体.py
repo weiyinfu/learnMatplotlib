@@ -31,5 +31,5 @@ plt.xlabel("round", font2)
 plt.ylabel("value", font2)
 
 # 将文件保存至文件中并且画出图
-plt.savefig("figure.eps")
+# plt.savefig("figure.eps")
 plt.show()
